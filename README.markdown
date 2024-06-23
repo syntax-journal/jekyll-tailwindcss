@@ -10,3 +10,4 @@ Command for running TailwindCSS:
 
 `npx tailwindcss -i ./assets/css/style.css -o ./assets/dist-style.css --watch`
 
+Additional details can be found [here](https://www.syntaxjournal.com/how-to-add-tailwindcss-jekyll/)
